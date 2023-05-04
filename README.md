@@ -1,4 +1,4 @@
-# Color_Detection
+#  CodeClause_Color_Detection
 
 Name of Project- Color Detection from an image
 
